@@ -1,1 +1,1 @@
-# Connect4gmame
+# Connect4game
